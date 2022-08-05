@@ -3,7 +3,7 @@ Built with Python Dash Plotly
 SIT-ITP-2211-SETeam-7
 
 
-Showcasing results from tweeter data crawling 
-Sentiment Analysis
-Topic Modeling
+Showcasing results from twitter data crawling,
+Sentiment Analysis,
+Topic Modelling,
 Regression Analysis
