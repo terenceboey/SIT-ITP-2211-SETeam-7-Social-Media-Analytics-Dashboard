@@ -1,2 +1,3 @@
-# SIT-ITP-2211-SETeam-7-Social-Media-Analytics-Dashboard
-SIT-ITP-2211-SETeam-7 
+Social Media Data Analytics towards Healthcare Workers Dashboard
+Built with Python Dash Plotly
+SIT-ITP-2211-SETeam-7
