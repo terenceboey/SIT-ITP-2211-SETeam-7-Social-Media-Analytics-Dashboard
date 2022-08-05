@@ -1,11 +1,5 @@
-Social Media Data Analytics towards Healthcare Workers Dashboard
-Built with Python Dash Plotly by SIT-ITP-2211-SETeam-7
+# Social Media Data Analytics towards Healthcare Workers Dashboard
+### Built with Python Dash Plotly by SIT-ITP-2211-SETeam-7
+###### Showcasing results from twitter Data Crawling, Sentiment Analysis, Topic Modelling, Regression Analysis
 
-howcasing results from twitter data crawling,
-Sentiment Analysis,
-Topic Modelling,
-Regression Analysis
-
-# The largest heading
-## The second largest heading
-###### The smallest heading
+For full information on the dataset generated and used in the project please refer to here
