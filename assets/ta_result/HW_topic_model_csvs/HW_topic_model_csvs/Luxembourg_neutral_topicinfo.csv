@@ -1,3 +1,0 @@
-Unnamed: 0,Topic,Count,TopicLabel,WordScore,Sentiment,TopicWords
-0,0,841,0_health_people_covid_healthcare,False,negative,['False']
-1,1,23,1_omicron_covid19_luxembourg_revilux,"[('health', 0.03152731349913046), ('people', 0.014749311683723579), ('covid', 0.014539833653190613), ('healthcare', 0.013575475926944578), ('amp', 0.013235154090904653), ('mental', 0.011909649953268011), ('mental health', 0.011253299794845718), ('care', 0.011199808316167131), ('dont', 0.01043518808828031), ('like', 0.0092598651072926)]",negative,"['health', 'people', 'covid', 'healthcare', 'amp', 'mental', 'mental health', 'care', 'dont', 'like ']"

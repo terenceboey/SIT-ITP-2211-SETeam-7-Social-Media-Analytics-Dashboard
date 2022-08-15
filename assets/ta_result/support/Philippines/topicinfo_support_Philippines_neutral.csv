@@ -1,3 +1,0 @@
-,Topic,Count,TopicLabel,WordScore,Sentiment
-0,0,164,0_support_health_quarantine_community,False,neutral
-1,1,23,1_vaccination_covid19_health_vaccine,"[('support', 0.03720309747401672), ('health', 0.03638069993547147), ('quarantine', 0.018983490683146812), ('community', 0.017357440943507583), ('community quarantine', 0.01525924926542334), ('services', 0.013960556795751167), ('enhanced', 0.013520291782662725), ('enhanced community', 0.013076098121251361), ('enhanced community quarantine', 0.013076098121251361), ('workers', 0.012627810633120438)]",neutral

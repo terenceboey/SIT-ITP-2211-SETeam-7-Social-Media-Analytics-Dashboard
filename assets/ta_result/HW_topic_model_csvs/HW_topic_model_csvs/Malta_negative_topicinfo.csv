@@ -1,3 +1,0 @@
-Unnamed: 0,Topic,Count,TopicLabel,WordScore,Sentiment,TopicWords
-0,0,152,0_health_people_care_need,False,neutral,['False']
-1,1,15,1_covid_paper_infections_covid infections,"[('health', 0.041293404274729266), ('people', 0.012335262576102065), ('care', 0.011737250681918669), ('need', 0.011737250681918669), ('dont', 0.011131043064856386), ('mental health', 0.010516088323897338), ('mental', 0.010516088323897338), ('amp', 0.009130851779362905), ('access', 0.008611927039715238), ('covid19', 0.008262640825919336)]",neutral,"['health', 'people', 'care', 'need', 'dont', 'mental health', 'mental', 'amp', 'access', 'covid ']"

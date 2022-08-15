@@ -1,3 +1,0 @@
-Unnamed: 0,Topic,Count,TopicLabel,WordScore,Sentiment,TopicWords
-0,0,187,0_health_mental_mental health_people,False,neutral,['False']
-1,1,12,1_longterm_physical_used_use,"[('health', 0.045471752300300136), ('mental', 0.01860746571617479), ('mental health', 0.01726286944054941), ('people', 0.015886526043918967), ('covid', 0.014687389392490799), ('like', 0.014208072808710396), ('care', 0.012242896939336494), ('amp', 0.011228244739947773), ('healthcare', 0.010711896210518738), ('get', 0.010711896210518738)]",neutral,"['health', 'mental', 'mental health', 'people', 'covid', 'like', 'care', 'amp', 'healthcare', 'get ']"

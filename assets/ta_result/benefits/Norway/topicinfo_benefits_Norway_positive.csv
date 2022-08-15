@@ -1,3 +1,0 @@
-,Topic,Count,TopicLabel,WordScore,Sentiment
-0,0,23,0_health_support_safe_stay,False,positive
-1,1,11,1_health authorities_authorities_norway_two,"[('health', 0.04720842260750335), ('support', 0.030284659858132303), ('safe', 0.028996191478757576), ('stay', 0.025906846612510744), ('ho', 0.02467129864356533), ('home', 0.023281566178944616), ('lot', 0.023281566178944616), ('stress across', 0.02129450834961146), ('stress across globe', 0.02129450834961146), ('say', 0.02129450834961146)]",positive

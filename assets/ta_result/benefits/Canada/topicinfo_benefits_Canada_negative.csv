@@ -1,3 +1,0 @@
-,Topic,Count,TopicLabel,WordScore,Sentiment
-0,0,527,0_health_travel_covid19_amp,False,negative
-1,1,11,1_health_government_vouchers_health insurance,"[('health', 0.03631655211369557), ('travel', 0.025013748123707245), ('covid19', 0.017501031980710083), ('amp', 0.014892131581148266), ('people', 0.013785970443952474), ('message', 0.013160416365721874), ('public', 0.013160416365721874), ('covid', 0.012398537756821754), ('care', 0.011380492095988102), ('canada', 0.010701318115255392)]",negative

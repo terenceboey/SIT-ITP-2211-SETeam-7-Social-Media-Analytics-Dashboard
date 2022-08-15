@@ -1,3 +1,0 @@
-,Topic,Count,TopicLabel,WordScore,Sentiment
-0,0,17,0_migrant_covid19_workers_migrant workers,False,neutral
-1,1,17,1_amp_donation_donations_health,"[('migrant', 0.054636264583090316), ('covid19', 0.03968987401813277), ('workers', 0.03968987401813277), ('migrant workers', 0.03567181205317272), ('health', 0.027318132291545158), ('worker', 0.02717993130520099), ('migrant worker', 0.02717993130520099), ('mp', 0.022647166706329516), ('covid', 0.022647166706329516), ('granted', 0.02100666277604033)]",neutral

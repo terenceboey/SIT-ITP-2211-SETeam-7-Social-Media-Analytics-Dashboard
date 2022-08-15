@@ -1,3 +1,0 @@
-,Topic,Count,TopicLabel,WordScore,Sentiment
-0,0,146,0_care_amp_gift_health,False,negative
-1,1,21,1_vaccines_door_businesses_helping,"[('care', 0.027550218726153524), ('amp', 0.023861881972493695), ('gift', 0.0210959804102868), ('health', 0.019519769170485868), ('covid', 0.015055187444907752), ('package', 0.014561917263744947), ('care package', 0.0132285046580369), ('packages', 0.0132285046580369), ('care packages', 0.012318925938429377), ('people', 0.01212612926986716)]",negative

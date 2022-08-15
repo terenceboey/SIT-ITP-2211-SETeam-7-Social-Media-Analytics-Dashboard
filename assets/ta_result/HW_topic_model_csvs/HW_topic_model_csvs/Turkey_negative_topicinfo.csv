@@ -1,2 +1,0 @@
-Unnamed: 0,Topic,Count,TopicLabel,WordScore,Sentiment,TopicWords
-0,-1,61,-1_health_wellbeing_mental_amp,"[('health', 0.04575225703865408), ('wellbeing', 0.018850956896462174), ('mental', 0.018850956896462174), ('amp', 0.01710048780708735), ('issues', 0.015304378358936836), ('covid19', 0.015304378358936836), ('new', 0.015304378358936836), ('one', 0.013456028152778871), ('wellbeing index', 0.013456028152778871), ('who5', 0.013456028152778871)]",neutral,"['health', 'wellbeing', 'mental', 'amp', 'issues', 'covid', 'new', 'one', 'wellbeing index', 'who ']"

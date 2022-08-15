@@ -1,4 +1,0 @@
-,Topic,Count,TopicLabel,WordScore,Sentiment
-0,0,93,0_support_amp_health_taiwan,False,positive
-1,1,15,1_world_also_manufactures_lets make world,"[('support', 0.04226174051249244), ('amp', 0.030082623622774213), ('health', 0.029874714431582756), ('taiwan', 0.027999738575048862), ('thank', 0.020774289010765494), ('taiwans', 0.015529719327194505), ('get', 0.01483570302425642), ('care', 0.012690068817765836), ('covid19', 0.011985166736980092), ('really', 0.01195121003744662)]",positive
-2,2,11,2_medical_together us_tests vaccines_world worked,"[('world', 0.08954736247620296), ('also', 0.0641323037078892), ('manufactures', 0.0615607860456127), ('lets make world', 0.0615607860456127), ('trading world', 0.0615607860456127), ('taiwanpics', 0.0615607860456127), ('taiwanpics gmp also', 0.0615607860456127), ('taiwanpics gmp', 0.0615607860456127), ('peaceful', 0.0615607860456127), ('fine', 0.0615607860456127)]",positive

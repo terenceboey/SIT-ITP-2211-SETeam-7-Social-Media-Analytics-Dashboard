@@ -1,3 +1,0 @@
-Unnamed: 0,Topic,Count,TopicLabel,WordScore,Sentiment,TopicWords
-0,0,192,0_health_via_healthcare_mental,False,positive,['False']
-1,1,18,1_amp_coronavirus_coronavirus covid19 pandemic_amp top25,"[('health', 0.058979574712967886), ('via', 0.025163255203675995), ('healthcare', 0.018963393665963738), ('mental', 0.017869583814484922), ('care', 0.017869583814484922), ('mental health', 0.01618950407162821), ('health via', 0.01618950407162821), ('education', 0.010156559163749442), ('worker', 0.009505721392712014), ('first', 0.009505721392712014)]",positive,"['health', 'via', 'healthcare', 'mental', 'care', 'mental health', 'health via', 'education', 'worker', 'first ']"

@@ -1,3 +1,0 @@
-,Topic,Count,TopicLabel,WordScore,Sentiment
-0,0,68,0_holiday_travel_happy_cambodia,False,positive
-1,1,21,1_covid19_cambodia_world_covid19 test,"[('holiday', 0.0396058478377399), ('travel', 0.029104287974980422), ('happy', 0.021776275436756674), ('cambodia', 0.020739078485393973), ('good', 0.01818034552281193), ('everyone', 0.017907865512963795), ('vacation', 0.015667824866134664), ('holidays', 0.014923221260803164), ('thailand', 0.014713076647921182), ('health', 0.013430899134722849)]",positive

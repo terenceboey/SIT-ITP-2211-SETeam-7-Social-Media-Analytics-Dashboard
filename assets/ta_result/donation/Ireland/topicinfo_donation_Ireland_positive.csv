@@ -1,3 +1,0 @@
-,Topic,Count,TopicLabel,WordScore,Sentiment
-0,0,458,0_health_amp_charity_covid19,False,positive
-1,1,15,1_ready packing_doctors nurses looking_tuesday doctors_tomorrow delivery,"[('health', 0.02853427117349987), ('amp', 0.024755606789535773), ('charity', 0.018670463995181005), ('covid19', 0.018243102852373266), ('donation', 0.01694176260643704), ('support', 0.015308649518543155), ('mental', 0.01470206740707055), ('mental health', 0.01424233790962151), ('fundraising', 0.012836655395055185), ('help', 0.01203707756733198)]",positive

@@ -1,3 +1,0 @@
-,Topic,Count,TopicLabel,WordScore,Sentiment
-0,0,29,0_health_covid19_services_mental,False,negative
-1,1,20,1_support_later_vote_country,"[('health', 0.05225897161405969), ('covid19', 0.031959210272538785), ('services', 0.025434158605702473), ('mental', 0.025434158605702473), ('mental health', 0.025434158605702473), ('health services', 0.025434158605702473), ('service', 0.021645946918130942), ('health service', 0.021645946918130942), ('finland', 0.019417252515051078), ('get', 0.019417252515051078)]",negative

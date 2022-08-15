@@ -1,3 +1,0 @@
-,Topic,Count,TopicLabel,WordScore,Sentiment
-0,0,98,0_gift_health_thank_amp,False,positive
-1,1,14,1_staff_medical_medical staff_help2make happen kayalamia78,"[('gift', 0.037445320385700594), ('health', 0.028952104461440413), ('thank', 0.023623721205085785), ('amp', 0.023336221570964776), ('care', 0.020789161796762125), ('day', 0.016890882767350714), ('love', 0.01587163289552254), ('covid', 0.013091345071410153), ('life', 0.011410071412620433), ('gifts', 0.011410071412620433)]",positive

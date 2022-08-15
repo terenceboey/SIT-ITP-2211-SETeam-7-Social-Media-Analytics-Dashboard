@@ -1,2 +1,0 @@
-Unnamed: 0,Topic,Count,TopicLabel,WordScore,Sentiment,TopicWords
-0,-1,49,-1_health_people_care_need,"[('health', 0.06493696634947164), ('people', 0.02406507568859073), ('care', 0.022077683406151183), ('need', 0.020041263845887735), ('covid19', 0.01794960923323441), ('things', 0.01794960923323441), ('minister health', 0.015794721830199598), ('take', 0.015794721830199598), ('amp', 0.015794721830199598), ('mental health', 0.015794721830199598)]",neutral,"['health', 'people', 'care', 'need', 'covid', 'things', 'minister health', 'take', 'amp', 'mental health ']"

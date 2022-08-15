@@ -1,4 +1,0 @@
-,Topic,Count,TopicLabel,WordScore,Sentiment
-0,0,609,0_gift_health_care_amp,False,neutral
-1,1,26,1_badge_reel_badge reel_nurse,"[('gift', 0.030917545413131544), ('health', 0.02279115509204151), ('care', 0.019002927806155624), ('amp', 0.013810544288888294), ('giving', 0.013472817534545309), ('gifts', 0.013246167320532605), ('im', 0.012326988600234089), ('appreciate', 0.0117416753236142), ('dont', 0.011386224310522513), ('get', 0.010786291955614332)]",neutral
-2,2,26,2_lanyard_teacher_reel_badge reel,"[('badge', 0.25286026030201064), ('reel', 0.20881240988444907), ('badge reel', 0.20881240988444907), ('nurse', 0.18362200725693595), ('lanyard', 0.1758369235439525), ('nurse lanyard', 0.09219634942971887), ('via', 0.08611538362579285), ('reel nurse', 0.0820124288466974), ('badge reel nurse', 0.0820124288466974), ('nurse badge', 0.07832231726396788)]",neutral

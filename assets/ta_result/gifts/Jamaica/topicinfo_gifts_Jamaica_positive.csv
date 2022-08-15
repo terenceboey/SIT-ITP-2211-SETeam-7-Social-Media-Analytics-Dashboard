@@ -1,4 +1,0 @@
-,Topic,Count,TopicLabel,WordScore,Sentiment
-0,0,71,0_care_packages_care packages_covid19,False,positive
-1,1,24,1_frontline_gifts_xmas treat frontline_irie,"[('care', 0.039471731207336276), ('packages', 0.03482582247179486), ('care packages', 0.03276505843585193), ('covid19', 0.030550347390139072), ('today', 0.026032931233888838), ('health', 0.023663653314781954), ('amp', 0.021551131633411578), ('help', 0.015595743646602097), ('jamaica', 0.015595743646602097), ('st', 0.014287451368270304)]",positive
-2,2,18,2_gift_love_give_still,"[('frontline', 0.10779085538334886), ('gifts', 0.06573035235400985), ('xmas treat frontline', 0.06395056545887162), ('irie', 0.06395056545887162), ('stayhome', 0.06395056545887162), ('treat frontline workers', 0.06395056545887162), ('treat frontline', 0.06395056545887162), ('thankyou', 0.06395056545887162), ('thankyou staysafe', 0.06395056545887162), ('highlights irie', 0.06395056545887162)]",positive

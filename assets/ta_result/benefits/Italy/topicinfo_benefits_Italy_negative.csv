@@ -1,4 +1,0 @@
-,Topic,Count,TopicLabel,WordScore,Sentiment
-0,0,117,0_health_italy_covid19_travel,False,negative
-1,1,24,1_indonesia_travel_bali_indonesia jakarta bali,"[('health', 0.027872761242718803), ('italy', 0.019726633860471864), ('covid19', 0.018677727016820647), ('travel', 0.01689306620819371), ('public', 0.014455101902782737), ('take', 0.01185895167237178), ('public health', 0.01132052144657481), ('people', 0.01132052144657481), ('first', 0.009659779558239068), ('covid', 0.009098538759474934)]",negative
-2,2,12,2_indonesian_indonesia_travel_indonesia jakarta surabaya,"[('indonesia', 0.09422480825953945), ('travel', 0.08822948023100663), ('bali', 0.06437549990553314), ('indonesia jakarta bali', 0.05961227428436108), ('jakarta bali', 0.05961227428436108), ('protocol travel indonesia', 0.054983853706930146), ('health protocol', 0.054983853706930146), ('asia', 0.054983853706930146), ('travel indonesia', 0.054983853706930146), ('starting', 0.054983853706930146)]",negative

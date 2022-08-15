@@ -1,3 +1,0 @@
-,Topic,Count,TopicLabel,WordScore,Sentiment
-0,0,59,0_migrant_workers_migrant workers_lockdown,False,negative
-1,1,56,1_health_covid19_charity_cases,"[('migrant', 0.04465133479170414), ('workers', 0.03844976051507857), ('migrant workers', 0.0288897847949723), ('lockdown', 0.025955536373577053), ('covid19', 0.024498477678297256), ('migrants', 0.020404156200811947), ('nurses', 0.01989099360467055), ('country', 0.019630034655983928), ('india', 0.01960403175912972), ('worker', 0.01938715491172598)]",negative

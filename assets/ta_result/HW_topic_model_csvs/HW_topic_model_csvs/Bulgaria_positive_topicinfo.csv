@@ -1,3 +1,0 @@
-Unnamed: 0,Topic,Count,TopicLabel,WordScore,Sentiment,TopicWords
-0,0,251,0_health_mental_mental health_care,False,positive,['False']
-1,1,12,1_healthcare_via_insurance_healthcare via,"[('health', 0.04713135317619062), ('mental', 0.01498104636665893), ('mental health', 0.01498104636665893), ('care', 0.014900058307098082), ('good', 0.013220940014362892), ('healthcare', 0.0121679640661181), ('safe', 0.01101725514091606), ('amp', 0.01101725514091606), ('day', 0.010638762174668337), ('take', 0.010638762174668337)]",positive,"['health', 'mental', 'mental health', 'care', 'good', 'healthcare', 'safe', 'amp', 'day', 'take ']"

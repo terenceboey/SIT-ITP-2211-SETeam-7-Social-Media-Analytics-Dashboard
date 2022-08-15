@@ -1,3 +1,0 @@
-,Topic,Count,TopicLabel,WordScore,Sentiment
-0,0,119,0_health_gift_good_care,False,positive
-1,1,11,1_socks_staysafe_stayhealthy_covid,"[('health', 0.038504939334837174), ('gift', 0.037586657413258125), ('good', 0.019520929743050506), ('care', 0.018058863150791693), ('happy', 0.015307158119313817), ('may', 0.015307158119313817), ('festival', 0.013586485303315105), ('gifts', 0.013586485303315105), ('love', 0.012999575935295007), ('greatest', 0.012999575935295007)]",positive

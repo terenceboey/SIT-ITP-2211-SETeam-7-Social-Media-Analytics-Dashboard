@@ -1,4 +1,0 @@
-,Topic,Count,TopicLabel,WordScore,Sentiment
-0,0,215,0_health_support_amp_covid19,False,positive
-1,1,23,1_may day_day filled_day filled love_may day filled,"[('health', 0.048863727223616864), ('support', 0.034963580624644636), ('amp', 0.030298687868736966), ('covid19', 0.024533130460019988), ('mental', 0.012525442306311243), ('mental health', 0.012228389179912348), ('services', 0.011017649222488357), ('global', 0.011017649222488357), ('supporting', 0.010083732304243661), ('care', 0.010083732304243661)]",positive
-2,2,22,2_may night_may night filled_night_night filled,"[('may day', 0.10732452874444642), ('day filled', 0.10732452874444642), ('day filled love', 0.10732452874444642), ('may day filled', 0.10732452874444642), ('day', 0.10563032325882057), ('beloved', 0.09429626437530361), ('smib beloved', 0.09429626437530361), ('darling smib beloved', 0.09429626437530361), ('blessings prayers', 0.09385035263514328), ('darling smib', 0.09385035263514328)]",positive

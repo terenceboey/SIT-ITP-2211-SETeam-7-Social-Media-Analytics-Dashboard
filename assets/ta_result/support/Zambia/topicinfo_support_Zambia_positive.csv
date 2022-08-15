@@ -1,3 +1,0 @@
-,Topic,Count,TopicLabel,WordScore,Sentiment
-0,0,252,0_health_support_covid19_amp,False,positive
-1,1,12,1_training_19_covid 19_covid,"[('health', 0.05629727777446721), ('support', 0.039807707753372425), ('covid19', 0.022505158895516447), ('amp', 0.021008478505453107), ('services', 0.015462670579084275), ('health services', 0.013193121517324132), ('malawi', 0.011718016729471245), ('supporting', 0.010808653678808455), ('community', 0.01050107741291116), ('district', 0.010002556919382484)]",positive

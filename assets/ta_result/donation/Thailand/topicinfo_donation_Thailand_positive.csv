@@ -1,4 +1,0 @@
-,Topic,Count,TopicLabel,WordScore,Sentiment
-0,0,46,0_donation_health_day_covid19,False,positive
-1,1,35,1_migrant_thailand_covid19_workers,"[('donation', 0.03164898803304154), ('health', 0.0315250067824474), ('day', 0.021855992179818096), ('covid19', 0.02104893681180373), ('charity', 0.019667739619908798), ('need', 0.019667739619908798), ('us', 0.016714322228721455), ('free', 0.015182221559973435), ('amp', 0.014926184145554513), ('covid', 0.014857175314419071)]",positive
-2,2,13,2_covid19_inspecting_area_migrant,"[('migrant', 0.0503742456511614), ('thailand', 0.03993891021304534), ('covid19', 0.03786348680256521), ('workers', 0.03324002313779373), ('amp', 0.03042964587660597), ('migrant workers', 0.02854221506791566), ('hand', 0.028241292787241384), ('laos', 0.023200387676029582), ('support', 0.022426026124790874), ('health', 0.02175782201000481)]",positive

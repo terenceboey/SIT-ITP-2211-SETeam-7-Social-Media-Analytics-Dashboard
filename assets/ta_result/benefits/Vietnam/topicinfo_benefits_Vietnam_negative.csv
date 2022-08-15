@@ -1,4 +1,0 @@
-,Topic,Count,TopicLabel,WordScore,Sentiment
-0,0,35,0_cambodia_health_covid19_public,False,negative
-1,1,26,1_holiday_covid19_amp_quarantine,"[('cambodia', 0.03771347184151497), ('health', 0.03486157535414035), ('covid19', 0.03207699506699532), ('public', 0.030015904679312914), ('travel', 0.028962644692393662), ('people', 0.0265418379394142), ('place', 0.02292132985594929), ('measures', 0.02292132985594929), ('public health', 0.017146344638443556), ('authorities', 0.01510532877382724)]",negative
-2,2,18,2_costs_worker_cambodia_medical,"[('holiday', 0.02894583267356157), ('covid19', 0.028871215188965273), ('amp', 0.028415679590822144), ('quarantine', 0.024756682300429253), ('travel', 0.024438856383168797), ('shenzhen', 0.023149104431076397), ('procedures', 0.020393549798775737), ('ill', 0.020393549798775737), ('last', 0.01894378639388143), ('health', 0.01882650245336699)]",negative

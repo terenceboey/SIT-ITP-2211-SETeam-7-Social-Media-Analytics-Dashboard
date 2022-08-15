@@ -1,3 +1,0 @@
-,Topic,Count,TopicLabel,WordScore,Sentiment
-0,0,29,0_health_support_birth_money,False,negative
-1,1,15,1_covid19_taiwan_support_people,"[('health', 0.03249916066431692), ('support', 0.029640004094288724), ('birth', 0.022838774585084064), ('money', 0.022838774585084064), ('free', 0.020301132964519165), ('free birth', 0.01643894197874282), ('want', 0.01597744962869171), ('know', 0.01415429773097236), ('mental health', 0.01415429773097236), ('studies', 0.01415429773097236)]",negative

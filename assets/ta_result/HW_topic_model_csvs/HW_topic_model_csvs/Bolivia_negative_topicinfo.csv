@@ -1,3 +1,0 @@
-Unnamed: 0,Topic,Count,TopicLabel,WordScore,Sentiment,TopicWords
-0,0,175,0_health_mental_mental health_care,False,neutral,['False']
-1,1,16,1_talked something healthrelated_could easily talked_easily talked something_healthrelated today,"[('health', 0.040123799631499354), ('mental', 0.02111842088493752), ('mental health', 0.019376888373763276), ('care', 0.014784791981926273), ('people', 0.014303489152949963), ('dont', 0.012830783600254017), ('nurse', 0.012329535264372454), ('take', 0.010265373140283158), ('first', 0.010265373140283158), ('get', 0.0101561920021699)]",neutral,"['health', 'mental', 'mental health', 'care', 'people', 'dont', 'nurse', 'take', 'first', 'get ']"
