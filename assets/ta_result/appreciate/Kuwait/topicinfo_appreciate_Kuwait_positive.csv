@@ -1,0 +1,3 @@
+Unnamed: 0,Topic,Count,TopicLabel,WordScore,Sentiment,TopicWords
+0,0,61,0_health_amp_people_world,False,positive,['False']
+1,1,11,1_english_english school_kuwait english_kuwait english school,"[('health', 0.052648384067113856), ('amp', 0.02506033059176028), ('people', 0.02000650852711419), ('world', 0.02000650852711419), ('thank', 0.016194518741236067), ('care', 0.014866272592989074), ('much', 0.014866272592989074), ('make', 0.014866272592989074), ('good', 0.014866272592989074), ('help', 0.013503986265407499)]",positive,"['health', 'amp', 'people', 'world', 'thank', 'care', 'much', 'make', 'good', 'help ']"

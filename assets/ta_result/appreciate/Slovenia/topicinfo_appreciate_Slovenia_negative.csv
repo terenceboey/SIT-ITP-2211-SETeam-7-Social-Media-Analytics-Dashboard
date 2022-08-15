@@ -1,0 +1,2 @@
+Unnamed: 0,Topic,Count,TopicLabel,WordScore,Sentiment,TopicWords
+0,-1,30,-1_health_least_single_people,"[('health', 0.03040384860081638), ('least', 0.027921750210666466), ('single', 0.022753596016030636), ('people', 0.020048591653948476), ('stayhome', 0.020048591653948476), ('covid19', 0.017245144946056543), ('take', 0.017245144946056543), ('also', 0.017245144946056543), ('dont', 0.014323180629989921), ('first', 0.014323180629989921)]",negative,"['health', 'least', 'single', 'people', 'stayhome', 'covid', 'take', 'also', 'dont', 'first ']"

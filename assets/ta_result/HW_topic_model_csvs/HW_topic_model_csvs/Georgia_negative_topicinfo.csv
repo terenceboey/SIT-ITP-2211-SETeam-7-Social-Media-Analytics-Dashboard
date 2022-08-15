@@ -1,0 +1,2 @@
+Unnamed: 0,Topic,Count,TopicLabel,WordScore,Sentiment,TopicWords
+0,-1,36,-1_health_people_pill_care,"[('health', 0.04114099985998437), ('people', 0.025921104648481498), ('pill', 0.023547714515576912), ('care', 0.023547714515576912), ('help', 0.02110719632211199), ('healthcare', 0.02110719632211199), ('covid', 0.018589815533629338), ('nurse', 0.018589815533629338), ('back', 0.018589815533629338), ('im', 0.015982552676693802)]",neutral,"['health', 'people', 'pill', 'care', 'help', 'healthcare', 'covid', 'nurse', 'back', 'im ']"

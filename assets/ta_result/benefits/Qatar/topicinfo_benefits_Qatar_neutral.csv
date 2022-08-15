@@ -1,0 +1,3 @@
+,Topic,Count,TopicLabel,WordScore,Sentiment
+0,0,47,0_travel_health_covid19_amp,False,neutral
+1,1,23,1_air_travel_air travel_airlines,"[('travel', 0.036826015549805705), ('health', 0.03021377633661085), ('covid19', 0.024890406993578626), ('amp', 0.022062363965755373), ('us', 0.014673154190327166), ('message', 0.014673154190327166), ('others', 0.01313796431723634), ('protection', 0.012902571950073704), ('health protection', 0.012902571950073704), ('people', 0.01283900991653627)]",neutral

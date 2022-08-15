@@ -1,0 +1,3 @@
+,Topic,Count,TopicLabel,WordScore,Sentiment
+0,0,23,0_migrant_worker_migrant worker_taiwan,False,negative
+1,1,11,1_donation_whole_president_money,"[('migrant', 0.050201277609219185), ('worker', 0.039088110679498626), ('migrant worker', 0.03430835892789728), ('taiwan', 0.03430835892789728), ('workers', 0.026666089473426878), ('salary', 0.021163872821885685), ('tested', 0.021163872821885685), ('migrant workers', 0.021163872821885685), ('cases', 0.02053972722176895), ('basic salary', 0.015205288408742206)]",negative

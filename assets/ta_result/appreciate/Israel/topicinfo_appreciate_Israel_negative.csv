@@ -1,0 +1,3 @@
+Unnamed: 0,Topic,Count,TopicLabel,WordScore,Sentiment,TopicWords
+0,0,79,0_health_help_amp_safe,False,negative,['False']
+1,1,37,1_covid_stayhome stayhealthy covid_iswimstat_stayhome stayhealthy,"[('health', 0.021074964778997313), ('help', 0.015565304253281275), ('amp', 0.014647244814493563), ('safe', 0.013713756309458182), ('get', 0.012763540397170309), ('vaccines', 0.012763540397170309), ('us', 0.011795061761465199), ('im', 0.011795061761465199), ('people', 0.011795061761465199), ('need', 0.010806476598809333)]",negative,"['health', 'help', 'amp', 'safe', 'get', 'vaccines', 'us', 'im', 'people', 'need ']"

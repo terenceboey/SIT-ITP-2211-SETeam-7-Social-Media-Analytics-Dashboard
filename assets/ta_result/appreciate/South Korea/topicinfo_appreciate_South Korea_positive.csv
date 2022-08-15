@@ -1,0 +1,3 @@
+Unnamed: 0,Topic,Count,TopicLabel,WordScore,Sentiment,TopicWords
+0,0,201,0_health_thank_covid19_safe,False,positive,['False']
+1,1,18,1_squats_abs_hippie_spiritualcleanse happy,"[('health', 0.02905935241912744), ('thank', 0.023999826484151943), ('covid19', 0.016306221212366353), ('safe', 0.015588880539906405), ('korea', 0.014833144462320601), ('amp', 0.013752232649469343), ('care', 0.012232853713306313), ('appreciate', 0.012232853713306313), ('good', 0.012232853713306313), ('stay', 0.01025945781752234)]",positive,"['health', 'thank', 'covid', 'safe', 'korea', 'amp', 'care', 'appreciate', 'good', 'stay ']"

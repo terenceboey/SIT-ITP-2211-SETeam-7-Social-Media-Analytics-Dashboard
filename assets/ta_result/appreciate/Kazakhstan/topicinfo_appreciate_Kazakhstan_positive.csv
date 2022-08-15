@@ -1,0 +1,2 @@
+Unnamed: 0,Topic,Count,TopicLabel,WordScore,Sentiment,TopicWords
+0,-1,51,-1_health_happy_good_love,"[('health', 0.053450962105920985), ('happy', 0.028834822708776544), ('good', 0.028834822708776544), ('love', 0.0274533348657027), ('world', 0.02462843628471398), ('wish', 0.02462843628471398), ('thank', 0.023182107069803823), ('kazakhstan', 0.021710875399650973), ('covid19', 0.020212643877286492), ('amp', 0.017124762043750682)]",positive,"['health', 'happy', 'good', 'love', 'world', 'wish', 'thank', 'kazakhstan', 'covid', 'amp ']"

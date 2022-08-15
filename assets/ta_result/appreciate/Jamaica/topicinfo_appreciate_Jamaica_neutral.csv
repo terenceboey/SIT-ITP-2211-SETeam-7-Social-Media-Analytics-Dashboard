@@ -1,0 +1,3 @@
+Unnamed: 0,Topic,Count,TopicLabel,WordScore,Sentiment,TopicWords
+0,0,245,0_health_help_people_appreciate,False,neutral,['False']
+1,1,19,1_safe_hope_due_greetings hope,"[('health', 0.04118301449003758), ('help', 0.026597986457596694), ('people', 0.01561261273728416), ('appreciate', 0.01561261273728416), ('care', 0.014605672077764743), ('covid', 0.012954533327155964), ('covid19', 0.01252962659766664), ('take', 0.011092667731714337), ('nurses', 0.011092667731714337), ('dont', 0.010725894417790304)]",neutral,"['health', 'help', 'people', 'appreciate', 'care', 'covid', 'covid', 'take', 'nurses', 'dont ']"

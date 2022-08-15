@@ -1,0 +1,2 @@
+Unnamed: 0,Topic,Count,TopicLabel,WordScore,Sentiment,TopicWords
+0,-1,31,-1_health_work_every_cant,"[('health', 0.024597909807827858), ('work', 0.024597909807827858), ('every', 0.020019315239869637), ('cant', 0.020019315239869637), ('help', 0.020019315239869637), ('doctors', 0.017626421442129257), ('understand', 0.017626421442129257), ('amp', 0.015149212343385171), ('thank', 0.015149212343385171), ('us', 0.015149212343385171)]",negative,"['health', 'work', 'every', 'cant', 'help', 'doctors', 'understand', 'amp', 'thank', 'us ']"

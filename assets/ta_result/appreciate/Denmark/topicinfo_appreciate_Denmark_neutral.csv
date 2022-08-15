@@ -1,0 +1,2 @@
+Unnamed: 0,Topic,Count,TopicLabel,WordScore,Sentiment,TopicWords
+0,-1,21,-1_health_also_healthcare_people,"[('health', 0.037048099456225406), ('also', 0.024537103188717057), ('healthcare', 0.02113534024994781), ('people', 0.02113534024994781), ('still', 0.02113534024994781), ('ppl', 0.01758217689508201), ('gender', 0.01758217689508201), ('need', 0.01758217689508201), ('says', 0.013838738353288286), ('get', 0.013838738353288286)]",neutral,"['health', 'also', 'healthcare', 'people', 'still', 'ppl', 'gender', 'need', 'says', 'get ']"

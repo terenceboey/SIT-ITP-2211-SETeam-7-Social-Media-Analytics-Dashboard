@@ -1,0 +1,2 @@
+Unnamed: 0,Topic,Count,TopicLabel,WordScore,Sentiment,TopicWords
+0,-1,18,-1_health_people_help_mental health,"[('health', 0.04765323935941024), ('people', 0.03796728440907556), ('help', 0.031046717760408914), ('mental health', 0.027409844733879613), ('mental', 0.027409844733879613), ('care', 0.02362911377933844), ('need', 0.019675092667057057), ('appreciate', 0.019675092667057057), ('good', 0.015503237849707772), ('patients', 0.015503237849707772)]",neutral,"['health', 'people', 'help', 'mental health', 'mental', 'care', 'need', 'appreciate', 'good', 'patients ']"

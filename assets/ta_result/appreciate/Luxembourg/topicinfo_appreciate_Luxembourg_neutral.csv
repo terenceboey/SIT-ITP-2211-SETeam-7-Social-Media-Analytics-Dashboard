@@ -1,0 +1,2 @@
+Unnamed: 0,Topic,Count,TopicLabel,WordScore,Sentiment,TopicWords
+0,-1,17,-1_health_amp_people_help,"[('health', 0.04872970192539562), ('amp', 0.028050975544330784), ('people', 0.028050975544330784), ('help', 0.028050975544330784), ('appreciate', 0.023392878547131967), ('funds', 0.023392878547131967), ('supplychain', 0.018466248192313447), ('significant', 0.018466248192313447), ('space', 0.018466248192313447), ('find', 0.018466248192313447)]",neutral,"['health', 'amp', 'people', 'help', 'appreciate', 'funds', 'supplychain', 'significant', 'space', 'find ']"

@@ -1,0 +1,2 @@
+Unnamed: 0,Topic,Count,TopicLabel,WordScore,Sentiment,TopicWords
+0,-1,31,-1_health_covid19_appreciate_people,"[('health', 0.03315865840951491), ('covid19', 0.025634166615646003), ('appreciate', 0.022987774620160054), ('people', 0.022987774620160054), ('risk', 0.022987774620160054), ('continue', 0.022987774620160054), ('science', 0.020256157488566063), ('help', 0.020256157488566063), ('public', 0.017424867471680826), ('dont', 0.017424867471680826)]",neutral,"['health', 'covid', 'appreciate', 'people', 'risk', 'continue', 'science', 'help', 'public', 'dont ']"

@@ -1,0 +1,3 @@
+Unnamed: 0,Topic,Count,TopicLabel,WordScore,Sentiment,TopicWords
+0,0,275,0_health_amp_thank_good,False,positive,['False']
+1,1,27,1_ai_healthcare_healthcare healthtech_healthtech,"[('health', 0.04039734106096948), ('amp', 0.015046940224939), ('thank', 0.014489324968535167), ('good', 0.01379041879536606), ('help', 0.013738493694611723), ('appreciate', 0.01335539244974741), ('care', 0.012881160560802117), ('give', 0.011303713138565857), ('first', 0.011303713138565857), ('covid19', 0.01128520516870425)]",positive,"['health', 'amp', 'thank', 'good', 'help', 'appreciate', 'care', 'give', 'first', 'covid ']"

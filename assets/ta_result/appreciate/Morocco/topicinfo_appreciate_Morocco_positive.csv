@@ -1,0 +1,2 @@
+Unnamed: 0,Topic,Count,TopicLabel,WordScore,Sentiment,TopicWords
+0,-1,58,-1_health_help_amp_thank,"[('health', 0.042813910921021214), ('help', 0.029726247520762774), ('amp', 0.024537103188717057), ('thank', 0.020437821329880545), ('gibraltar', 0.020437821329880545), ('safe', 0.019023700882496254), ('mental', 0.01611048199250562), ('make', 0.01460523033809393), ('work', 0.01306218362045011), ('people', 0.01306218362045011)]",positive,"['health', 'help', 'amp', 'thank', 'gibraltar', 'safe', 'mental', 'make', 'work', 'people ']"

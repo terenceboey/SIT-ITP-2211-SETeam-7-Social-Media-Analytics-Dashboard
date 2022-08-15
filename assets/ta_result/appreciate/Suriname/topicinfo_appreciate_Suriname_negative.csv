@@ -1,0 +1,2 @@
+Unnamed: 0,Topic,Count,TopicLabel,WordScore,Sentiment,TopicWords
+0,-1,24,-1_amp_health_people_help,"[('amp', 0.06474207691933133), ('health', 0.054077012549543745), ('people', 0.02991421580023615), ('help', 0.02991421580023615), ('care', 0.02991421580023615), ('emergency', 0.02439505902103653), ('hospital', 0.02439505902103653), ('health care', 0.021503894400796687), ('public', 0.021503894400796687), ('would', 0.021503894400796687)]",negative,"['amp', 'health', 'people', 'help', 'care', 'emergency', 'hospital', 'health care', 'public', 'would ']"

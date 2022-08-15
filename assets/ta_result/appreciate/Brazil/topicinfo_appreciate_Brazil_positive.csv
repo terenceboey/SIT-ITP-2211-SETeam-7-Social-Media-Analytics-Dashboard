@@ -1,0 +1,3 @@
+Unnamed: 0,Topic,Count,TopicLabel,WordScore,Sentiment,TopicWords
+0,0,155,0_health_amp_good_thank,False,positive,['False']
+1,1,15,1_fitness_weightloss_weightloss fitness_diet,"[('health', 0.034498741061843315), ('amp', 0.01890951066800281), ('good', 0.015899923668648085), ('thank', 0.015382488413047742), ('help', 0.014741551395837419), ('life', 0.013260255270455417), ('care', 0.013260255270455417), ('appreciate', 0.012715307047350381), ('mental', 0.012164005169230257), ('us', 0.011605993416411163)]",positive,"['health', 'amp', 'good', 'thank', 'help', 'life', 'care', 'appreciate', 'mental', 'us ']"

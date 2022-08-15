@@ -1,0 +1,2 @@
+Unnamed: 0,Topic,Count,TopicLabel,WordScore,Sentiment,TopicWords
+0,-1,26,-1_health_eu_hungary_covid19,"[('health', 0.031349473703374216), ('eu', 0.028794318298866053), ('hungary', 0.028794318298866053), ('covid19', 0.023472231000864735), ('well', 0.020685616480797038), ('amp', 0.020685616480797038), ('coronavirus', 0.017796773340058157), ('many', 0.017796773340058157), ('law', 0.017796773340058157), ('hungary ranks', 0.014784848542880487)]",neutral,"['health', 'eu', 'hungary', 'covid', 'well', 'amp', 'coronavirus', 'many', 'law', 'hungary ranks ']"

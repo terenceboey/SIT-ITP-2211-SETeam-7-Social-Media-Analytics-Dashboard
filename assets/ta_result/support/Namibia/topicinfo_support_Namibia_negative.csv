@@ -1,0 +1,3 @@
+,Topic,Count,TopicLabel,WordScore,Sentiment
+0,0,102,0_health_services_support_health services,False,negative
+1,1,20,1_covid19_total_recoveries_cases,"[('health', 0.04754799608777019), ('services', 0.028317185283126153), ('support', 0.027676101016449885), ('health services', 0.027270853873515816), ('cases', 0.01861448057504826), ('covid19', 0.018596257491963163), ('director', 0.01660566060986993), ('director health', 0.01660566060986993), ('director health services', 0.016000405464451552), ('transferred', 0.014599382320789273)]",negative

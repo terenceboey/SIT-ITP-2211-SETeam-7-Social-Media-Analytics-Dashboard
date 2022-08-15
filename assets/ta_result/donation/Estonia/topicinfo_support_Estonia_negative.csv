@@ -1,0 +1,3 @@
+,Topic,Count,TopicLabel,WordScore,Sentiment
+0,0,15,0_support_never_country_national,False,negative
+1,1,14,1_health_covid19_supporting_finland,"[('support', 0.09077819481504869), ('never', 0.05449608336361904), ('country', 0.05449608336361904), ('national', 0.05095130925330358), ('strategy', 0.05095130925330358), ('never politicians', 0.05095130925330358), ('national health care', 0.05095130925330358), ('health care crazy', 0.05095130925330358), ('m4a later american', 0.05095130925330358), ('politicians support', 0.05095130925330358)]",negative

@@ -1,0 +1,2 @@
+Unnamed: 0,Topic,Count,TopicLabel,WordScore,Sentiment,TopicWords
+0,-1,72,-1_health_would_dont_people,"[('health', 0.04315207792652808), ('would', 0.019049909028298038), ('dont', 0.01638067480727374), ('people', 0.01638067480727374), ('im', 0.013600006642306211), ('sure', 0.013600006642306211), ('covid', 0.013600006642306211), ('used', 0.012159542849792692), ('mental', 0.012159542849792692), ('worker', 0.012159542849792692)]",neutral,"['health', 'would', 'dont', 'people', 'im', 'sure', 'covid', 'used', 'mental', 'worker ']"

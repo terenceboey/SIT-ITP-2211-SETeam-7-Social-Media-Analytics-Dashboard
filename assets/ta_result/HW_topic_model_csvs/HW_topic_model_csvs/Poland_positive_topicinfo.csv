@@ -1,0 +1,3 @@
+Unnamed: 0,Topic,Count,TopicLabel,WordScore,Sentiment,TopicWords
+0,0,660,0_health_covid19_healthcare_care,False,positive,['False']
+1,1,17,1_music_genesis_11_performance dedicated,"[('health', 0.03946340028930228), ('covid19', 0.02198309743818165), ('healthcare', 0.015347520517522369), ('care', 0.011847723810909656), ('good', 0.011083783304156776), ('amp', 0.011050377231793891), ('poland', 0.010148148723475341), ('safe', 0.009831321463147047), ('new', 0.009027483345739072), ('people', 0.009027483345739072)]",positive,"['health', 'covid', 'healthcare', 'care', 'good', 'amp', 'poland', 'safe', 'new', 'people ']"

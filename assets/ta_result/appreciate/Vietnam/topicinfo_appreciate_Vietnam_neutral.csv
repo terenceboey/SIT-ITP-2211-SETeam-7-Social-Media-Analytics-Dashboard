@@ -1,0 +1,2 @@
+Unnamed: 0,Topic,Count,TopicLabel,WordScore,Sentiment,TopicWords
+0,-1,26,-1_help_care_health_im,"[('help', 0.03173883192043311), ('care', 0.028496916708245824), ('health', 0.025144307908047173), ('im', 0.025144307908047173), ('covid', 0.021662193568944044), ('appreciate', 0.021662193568944044), ('might', 0.021662193568944044), ('pandemic', 0.021662193568944044), ('think', 0.021662193568944044), ('get', 0.021662193568944044)]",neutral,"['help', 'care', 'health', 'im', 'covid', 'appreciate', 'might', 'pandemic', 'think', 'get ']"

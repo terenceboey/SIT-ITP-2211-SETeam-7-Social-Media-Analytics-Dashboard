@@ -1,0 +1,2 @@
+Unnamed: 0,Topic,Count,TopicLabel,WordScore,Sentiment,TopicWords
+0,-1,51,-1_health_covid19_help_like,"[('health', 0.03225451893333488), ('covid19', 0.025192375657379584), ('help', 0.019118417994970903), ('like', 0.019118417994970903), ('im', 0.015891581823487315), ('people', 0.015891581823487315), ('mask', 0.012496177217353428), ('research', 0.012496177217353428), ('know', 0.012496177217353428), ('mental', 0.012496177217353428)]",neutral,"['health', 'covid', 'help', 'like', 'im', 'people', 'mask', 'research', 'know', 'mental ']"

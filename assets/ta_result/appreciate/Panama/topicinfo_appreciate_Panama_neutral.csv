@@ -1,0 +1,2 @@
+Unnamed: 0,Topic,Count,TopicLabel,WordScore,Sentiment,TopicWords
+0,-1,41,-1_health_appreciate_think_im,"[('health', 0.03382453917570193), ('appreciate', 0.029570439123954007), ('think', 0.025128329660388037), ('im', 0.025128329660388037), ('help', 0.022824136206962782), ('care', 0.022824136206962782), ('people', 0.020455307295842603), ('would', 0.020455307295842603), ('also', 0.01801247283518775), ('could', 0.015483100787146101)]",neutral,"['health', 'appreciate', 'think', 'im', 'help', 'care', 'people', 'would', 'also', 'could ']"

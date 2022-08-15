@@ -1,0 +1,4 @@
+,Topic,Count,TopicLabel,WordScore,Sentiment
+0,0,97,0_health_travel_covid_covid19,False,negative
+1,1,26,1_worldwide_cruise_ship_cruise ship,"[('health', 0.026727124670180305), ('travel', 0.022559164401817836), ('covid', 0.020052188360681393), ('covid19', 0.018259478653211918), ('public', 0.013429645615841236), ('amp', 0.013429645615841236), ('workers', 0.013265315834711359), ('message', 0.011791328421281319), ('bonus', 0.01042806765564865), ('people', 0.01042806765564865)]",negative
+2,2,22,2_fitness_registrations left_udemy_courses,"[('worldwide', 0.11200888952807717), ('cruise', 0.08328916323751982), ('ship', 0.0703042400954506), ('cruise ship', 0.0703042400954506), ('passengers', 0.06695641913852438), ('please', 0.06632697883919815), ('belief', 0.06489575363860181), ('crew members worldwide', 0.06489575363860181), ('cruise ship industry', 0.06489575363860181), ('members', 0.06489575363860181)]",negative

@@ -1,0 +1,3 @@
+,Topic,Count,TopicLabel,WordScore,Sentiment
+0,0,62,0_migrant_worker_covid19_singapore,False,negative
+1,1,17,1_cases_omicron_r0_3rd,"[('migrant', 0.045677410822115905), ('worker', 0.036205646109423596), ('covid19', 0.03525995969358987), ('singapore', 0.03038855497759983), ('migrant worker', 0.02733685733191658), ('workers', 0.020987103370472576), ('migrant workers', 0.018904876478007992), ('covid', 0.018586927136395193), ('cases', 0.017718872575465186), ('health', 0.017413948047936435)]",negative

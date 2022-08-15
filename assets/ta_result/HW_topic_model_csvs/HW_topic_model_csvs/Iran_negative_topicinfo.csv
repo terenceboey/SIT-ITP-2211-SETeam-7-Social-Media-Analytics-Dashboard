@@ -1,0 +1,3 @@
+Unnamed: 0,Topic,Count,TopicLabel,WordScore,Sentiment,TopicWords
+0,0,139,0_health_mental health_mental_nurse,False,neutral,['False']
+1,1,14,1_kuwait_health_indicators_vasectomy,"[('health', 0.04904372226304543), ('mental health', 0.02262698125489883), ('mental', 0.02262698125489883), ('nurse', 0.012581637967048384), ('good', 0.012581637967048384), ('like', 0.01183997413501679), ('cycling', 0.011085806377306308), ('im', 0.011085806377306308), ('hospital', 0.011085806377306308), ('way', 0.011085806377306308)]",neutral,"['health', 'mental health', 'mental', 'nurse', 'good', 'like', 'cycling', 'im', 'hospital', 'way ']"

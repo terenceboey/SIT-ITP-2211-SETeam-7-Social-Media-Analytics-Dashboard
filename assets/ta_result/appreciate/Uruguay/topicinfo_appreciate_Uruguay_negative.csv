@@ -1,0 +1,2 @@
+Unnamed: 0,Topic,Count,TopicLabel,WordScore,Sentiment,TopicWords
+0,-1,22,-1_help_nurse_dont_people,"[('help', 0.03064544674753266), ('nurse', 0.024267471084551746), ('dont', 0.024267471084551746), ('people', 0.024267471084551746), ('didnt', 0.024267471084551746), ('payed', 0.0173860148173744), ('like', 0.0173860148173744), ('missing', 0.0173860148173744), ('diversity', 0.0173860148173744), ('someone', 0.0173860148173744)]",negative,"['help', 'nurse', 'dont', 'people', 'didnt', 'payed', 'like', 'missing', 'diversity', 'someone ']"

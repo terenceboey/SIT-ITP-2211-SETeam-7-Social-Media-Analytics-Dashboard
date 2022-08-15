@@ -1,0 +1,2 @@
+Unnamed: 0,Topic,Count,TopicLabel,WordScore,Sentiment,TopicWords
+0,-1,13,-1_back_health_ill_im,"[('back', 0.03996492121330618), ('health', 0.03996492121330618), ('ill', 0.025485038730838416), ('im', 0.025485038730838416), ('covid', 0.020136980961906234), ('need', 0.020136980961906234), ('fast', 0.020136980961906234), ('much', 0.020136980961906234), ('help', 0.020136980961906234), ('june', 0.0143872210325771)]",neutral,"['back', 'health', 'ill', 'im', 'covid', 'need', 'fast', 'much', 'help', 'june ']"

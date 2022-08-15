@@ -1,0 +1,2 @@
+Unnamed: 0,Topic,Count,TopicLabel,WordScore,Sentiment,TopicWords
+0,-1,21,-1_health_people_weight_help,"[('health', 0.03996492121330618), ('people', 0.02285332055621106), ('weight', 0.019023700882496254), ('help', 0.019023700882496254), ('benefits', 0.019023700882496254), ('still', 0.019023700882496254), ('love', 0.019023700882496254), ('losing', 0.014984903568266424), ('using', 0.014984903568266424), ('care', 0.014984903568266424)]",neutral,"['health', 'people', 'weight', 'help', 'benefits', 'still', 'love', 'losing', 'using', 'care ']"

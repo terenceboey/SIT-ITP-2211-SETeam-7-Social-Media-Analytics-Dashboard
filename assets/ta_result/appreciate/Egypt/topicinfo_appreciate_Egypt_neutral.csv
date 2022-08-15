@@ -1,0 +1,2 @@
+Unnamed: 0,Topic,Count,TopicLabel,WordScore,Sentiment,TopicWords
+0,-1,54,-1_health_appreciate_tires_help,"[('health', 0.035005960087855524), ('appreciate', 0.029537603758246038), ('tires', 0.02224779393735769), ('help', 0.02071418850792847), ('dont', 0.017552813856322024), ('safe', 0.015918221558182302), ('using', 0.015918221558182302), ('good', 0.015918221558182302), ('people', 0.015918221558182302), ('stop', 0.014241741414051092)]",neutral,"['health', 'appreciate', 'tires', 'help', 'dont', 'safe', 'using', 'good', 'people', 'stop ']"

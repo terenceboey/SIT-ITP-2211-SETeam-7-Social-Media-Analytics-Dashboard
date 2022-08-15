@@ -1,0 +1,3 @@
+Unnamed: 0,Topic,Count,TopicLabel,WordScore,Sentiment,TopicWords
+0,0,21,0_extraordinary_year_new_thank,False,positive,['False']
+1,1,21,1_health_anxiety_amp_access,"[('extraordinary', 0.05870200162249885), ('year', 0.05870200162249885), ('new', 0.05796552246212828), ('thank', 0.050991284793671154), ('health', 0.04177129960365741), ('love', 0.037077676014835116), ('happiness', 0.037077676014835116), ('coming', 0.037077676014835116), ('cheers', 0.037077676014835116), ('much', 0.036351793836389985)]",positive,"['extraordinary', 'year', 'new', 'thank', 'health', 'love', 'happiness', 'coming', 'cheers', 'much ']"

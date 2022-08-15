@@ -1,0 +1,2 @@
+Unnamed: 0,Topic,Count,TopicLabel,WordScore,Sentiment,TopicWords
+0,-1,32,-1_health_help_people_dont,"[('health', 0.041571310223380765), ('help', 0.020299092398779067), ('people', 0.017874143852068453), ('dont', 0.017874143852068453), ('amp', 0.017874143852068453), ('using', 0.015363455307346343), ('problem', 0.012749557743292441), ('im', 0.012749557743292441), ('said', 0.012749557743292441), ('patients', 0.012749557743292441)]",negative,"['health', 'help', 'people', 'dont', 'amp', 'using', 'problem', 'im', 'said', 'patients ']"

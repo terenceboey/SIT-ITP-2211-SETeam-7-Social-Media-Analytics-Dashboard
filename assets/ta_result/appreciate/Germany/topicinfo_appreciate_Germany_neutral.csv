@@ -1,0 +1,2 @@
+Unnamed: 0,Topic,Count,TopicLabel,WordScore,Sentiment,TopicWords
+0,-1,29,-1_health_germany_help_always,"[('health', 0.029600278815584285), ('germany', 0.022143308219393726), ('help', 0.022143308219393726), ('always', 0.016776931328326892), ('good', 0.016776931328326892), ('yes', 0.013931447206867512), ('mental health', 0.013931447206867512), ('would', 0.013931447206867512), ('hamhuis', 0.013931447206867512), ('data', 0.013931447206867512)]",neutral,"['health', 'germany', 'help', 'always', 'good', 'yes', 'mental health', 'would', 'hamhuis', 'data ']"

@@ -1,0 +1,2 @@
+Unnamed: 0,Topic,Count,TopicLabel,WordScore,Sentiment,TopicWords
+0,-1,54,-1_health_amp_thank_covid19,"[('health', 0.049115670579165424), ('amp', 0.03693178445005527), ('thank', 0.03169170194029147), ('covid19', 0.02329400215199816), ('happy', 0.02329400215199816), ('love', 0.020310836215511108), ('care', 0.01877602130411733), ('2022', 0.01720855731659827), ('wish', 0.01720855731659827), ('much', 0.013960096147589461)]",positive,"['health', 'amp', 'thank', 'covid', 'happy', 'love', 'care', '', 'wish', 'much ']"

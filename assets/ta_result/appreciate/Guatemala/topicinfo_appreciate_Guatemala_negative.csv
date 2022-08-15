@@ -1,0 +1,2 @@
+Unnamed: 0,Topic,Count,TopicLabel,WordScore,Sentiment,TopicWords
+0,-1,61,-1_health_covid19_help_care,"[('health', 0.02795139087456833), ('covid19', 0.02795139087456833), ('help', 0.02179086878887388), ('care', 0.016506643792755973), ('stayhome', 0.016506643792755973), ('people', 0.015121557617786349), ('like', 0.015121557617786349), ('dont', 0.015121557617786349), ('stop', 0.013705361823780566), ('using', 0.013705361823780566)]",negative,"['health', 'covid', 'help', 'care', 'stayhome', 'people', 'like', 'dont', 'stop', 'using ']"

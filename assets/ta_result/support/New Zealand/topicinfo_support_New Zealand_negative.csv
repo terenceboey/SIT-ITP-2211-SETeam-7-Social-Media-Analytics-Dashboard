@@ -1,0 +1,3 @@
+,Topic,Count,TopicLabel,WordScore,Sentiment
+0,0,367,0_health_support_amp_mental,False,negative
+1,1,36,1_health_support_vaccines_refuse,"[('health', 0.04195137395043804), ('support', 0.03960341515999619), ('amp', 0.01794184926136481), ('mental', 0.01733107013081184), ('mental health', 0.016985973676078212), ('people', 0.016801227977956953), ('services', 0.015734904138085457), ('covid19', 0.01437048025551164), ('health services', 0.012083118885492067), ('need', 0.012045059709085097)]",negative

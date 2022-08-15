@@ -1,0 +1,2 @@
+Unnamed: 0,Topic,Count,TopicLabel,WordScore,Sentiment,TopicWords
+0,-1,73,-1_health_covid19_covid_people,"[('health', 0.032974960466540734), ('covid19', 0.022395887547268203), ('covid', 0.018210758231198644), ('people', 0.018210758231198644), ('singapore', 0.01602575340281374), ('help', 0.01602575340281374), ('would', 0.013765523962282053), ('dont', 0.011414754845149814), ('well', 0.011414754845149814), ('time', 0.011414754845149814)]",neutral,"['health', 'covid', 'covid', 'people', 'singapore', 'help', 'would', 'dont', 'well', 'time ']"

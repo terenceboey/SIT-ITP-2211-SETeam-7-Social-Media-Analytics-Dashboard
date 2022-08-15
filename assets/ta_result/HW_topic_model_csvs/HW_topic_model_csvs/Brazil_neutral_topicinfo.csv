@@ -1,0 +1,3 @@
+Unnamed: 0,Topic,Count,TopicLabel,WordScore,Sentiment,TopicWords
+0,0,790,0_health_mental_mental health_care,False,negative,['False']
+1,1,22,1_click_diet_weightloss_fitness,"[('health', 0.0318711395556579), ('mental', 0.01565152999778228), ('mental health', 0.013711729583465315), ('care', 0.012765486448918712), ('dont', 0.012338683683580449), ('people', 0.011339256541245329), ('covid', 0.011143386216492836), ('healthcare', 0.011143386216492836), ('amp', 0.010700292827728155), ('nurse', 0.009913028032436025)]",negative,"['health', 'mental', 'mental health', 'care', 'dont', 'people', 'covid', 'healthcare', 'amp', 'nurse ']"

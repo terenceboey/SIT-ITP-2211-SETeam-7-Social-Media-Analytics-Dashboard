@@ -1,0 +1,3 @@
+Unnamed: 0,Topic,Count,TopicLabel,WordScore,Sentiment,TopicWords
+0,0,204,0_health_people_mental_mental health,False,negative,['False']
+1,1,12,1_cbd_hemp_hemp health_cbd hemp,"[('health', 0.04026864159439991), ('people', 0.014982074440950977), ('mental', 0.01416810938116712), ('mental health', 0.0137560848611063), ('world', 0.013340532179041397), ('dont', 0.01292131420996475), ('one', 0.012498282849622032), ('vaccine', 0.010319777662895468), ('worker', 0.009414775793856094), ('public', 0.008487228977057396)]",negative,"['health', 'people', 'mental', 'mental health', 'world', 'dont', 'one', 'vaccine', 'worker', 'public ']"

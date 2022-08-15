@@ -1,0 +1,2 @@
+Unnamed: 0,Topic,Count,TopicLabel,WordScore,Sentiment,TopicWords
+0,-1,23,-1_appreciate_people_think_care,"[('appreciate', 0.029801263913351243), ('people', 0.02630299989624647), ('think', 0.02630299989624647), ('care', 0.02630299989624647), ('health', 0.02266792978776166), ('dont', 0.018868078222462777), ('nothing', 0.018868078222462777), ('time', 0.018868078222462777), ('vaccine', 0.014861106601748858), ('amp', 0.014861106601748858)]",neutral,"['appreciate', 'people', 'think', 'care', 'health', 'dont', 'nothing', 'time', 'vaccine', 'amp ']"

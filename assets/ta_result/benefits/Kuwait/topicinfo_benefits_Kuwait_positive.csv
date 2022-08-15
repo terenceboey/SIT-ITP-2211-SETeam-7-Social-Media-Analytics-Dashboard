@@ -1,0 +1,3 @@
+,Topic,Count,TopicLabel,WordScore,Sentiment
+0,0,91,0_im_im platinum_im platinum health_al salem im,False,positive
+1,1,56,1_salem platinum health_al salem platinum_salem platinum_health,"[('im', 0.12142561385142504), ('im platinum', 0.12043025812295748), ('im platinum health', 0.12043025812295748), ('al salem im', 0.11331315283433921), ('salem im', 0.11331315283433921), ('salem im platinum', 0.11227415109121777), ('health', 0.10819721794474738), ('club', 0.10403015564608972), ('health club', 0.10403015564608972), ('platinum', 0.10307469282151321)]",positive

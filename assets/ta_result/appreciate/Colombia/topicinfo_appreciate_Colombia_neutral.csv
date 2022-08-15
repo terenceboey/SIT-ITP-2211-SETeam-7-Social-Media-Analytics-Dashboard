@@ -1,0 +1,2 @@
+Unnamed: 0,Topic,Count,TopicLabel,WordScore,Sentiment,TopicWords
+0,-1,48,-1_health_help_mental_mental health,"[('health', 0.04429871623742562), ('help', 0.028547423210221193), ('mental', 0.023810791286469107), ('mental health', 0.0221745418388042), ('amp', 0.017053882860651154), ('missing', 0.013419007414491951), ('care', 0.011514666075961438), ('like', 0.011514666075961438), ('also', 0.011514666075961438), ('good', 0.011514666075961438)]",neutral,"['health', 'help', 'mental', 'mental health', 'amp', 'missing', 'care', 'like', 'also', 'good ']"

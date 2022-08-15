@@ -1,0 +1,2 @@
+,Topic,Count,TopicLabel,WordScore,Sentiment
+0,-1,30,-1_health_health service_service_covid19,"[('health', 0.06924196161704636), ('health service', 0.03475393915787413), ('service', 0.03475393915787413), ('covid19', 0.025048768809062018), ('mental', 0.022460014342837013), ('public', 0.022460014342837013), ('mental health', 0.022460014342837013), ('people', 0.022460014342837013), ('support', 0.01978839935580287), ('teachers', 0.01978839935580287)]",negative

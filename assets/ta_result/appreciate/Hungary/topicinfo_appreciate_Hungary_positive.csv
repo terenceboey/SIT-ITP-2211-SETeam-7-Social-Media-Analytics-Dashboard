@@ -1,0 +1,3 @@
+Unnamed: 0,Topic,Count,TopicLabel,WordScore,Sentiment,TopicWords
+0,0,172,0_health_amp_thank_love,False,positive,['False']
+1,1,19,1_amp_testing_covid19_benefit,"[('health', 0.03928758024737717), ('amp', 0.028093772951335656), ('thank', 0.023964107611651155), ('love', 0.02135779938259159), ('good', 0.01834502859170745), ('covid19', 0.01595448386672449), ('help', 0.013938866933406556), ('care', 0.012194974485058796), ('us', 0.012023583955870224), ('im', 0.011836655976013223)]",positive,"['health', 'amp', 'thank', 'love', 'good', 'covid', 'help', 'care', 'us', 'im ']"

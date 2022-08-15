@@ -1,0 +1,3 @@
+Unnamed: 0,Topic,Count,TopicLabel,WordScore,Sentiment,TopicWords
+0,0,105,0_health_covid19_people_help,False,negative,['False']
+1,1,11,1_nurse_went_aampe_woke,"[('health', 0.028724035647795798), ('covid19', 0.019711817463930897), ('people', 0.018384471792032932), ('help', 0.015605188825611961), ('covid', 0.012743116969292733), ('get', 0.010538053445409512), ('workers', 0.01045076333784497), ('dont', 0.009769936308961853), ('fight', 0.00965826380727473), ('zero', 0.008849250674809413)]",negative,"['health', 'covid', 'people', 'help', 'covid', 'get', 'workers', 'dont', 'fight', 'zero ']"

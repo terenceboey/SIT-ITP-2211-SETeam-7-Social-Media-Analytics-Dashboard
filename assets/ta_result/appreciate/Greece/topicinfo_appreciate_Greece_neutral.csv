@@ -1,0 +1,2 @@
+Unnamed: 0,Topic,Count,TopicLabel,WordScore,Sentiment,TopicWords
+0,-1,15,-1_amp_im_ok_better,"[('amp', 0.031133813865247443), ('im', 0.031133813865247443), ('ok', 0.022395887547268203), ('better', 0.022395887547268203), ('health', 0.022395887547268203), ('trying', 0.017670907776723695), ('gun safety', 0.017670907776723695), ('day', 0.017670907776723695), ('covid', 0.017670907776723695), ('gun', 0.017670907776723695)]",neutral,"['amp', 'im', 'ok', 'better', 'health', 'trying', 'gun safety', 'day', 'covid', 'gun ']"

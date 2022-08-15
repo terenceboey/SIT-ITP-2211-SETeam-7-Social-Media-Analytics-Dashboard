@@ -1,0 +1,3 @@
+,Topic,Count,TopicLabel,WordScore,Sentiment
+0,0,109,0_health_mental_mental health_people,False,negative
+1,1,19,1_2017_fact abortionpill mifepristone_via healthing_abortionpill mifepristone,"[('health', 0.04040796445637874), ('mental', 0.020495673167837083), ('mental health', 0.019947238358246935), ('people', 0.01511232923083374), ('care', 0.014776550867721481), ('canada', 0.01416375500395288), ('donations', 0.01355948439878783), ('granted', 0.012939742999219713), ('get', 0.012311942989184876), ('covid19', 0.012311942989184876)]",negative

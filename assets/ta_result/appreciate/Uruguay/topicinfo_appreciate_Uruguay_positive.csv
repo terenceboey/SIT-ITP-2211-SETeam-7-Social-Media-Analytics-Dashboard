@@ -1,0 +1,2 @@
+Unnamed: 0,Topic,Count,TopicLabel,WordScore,Sentiment,TopicWords
+0,-1,23,-1_health_appreciate_less_increasing,"[('health', 0.028659957207283572), ('appreciate', 0.028659957207283572), ('less', 0.0252891139891954), ('increasing', 0.021787857482698268), ('safety', 0.021787857482698268), ('good', 0.021787857482698268), ('people', 0.018129531769763663), ('us', 0.018129531769763663), ('thank', 0.018129531769763663), ('really', 0.018129531769763663)]",positive,"['health', 'appreciate', 'less', 'increasing', 'safety', 'good', 'people', 'us', 'thank', 'really ']"

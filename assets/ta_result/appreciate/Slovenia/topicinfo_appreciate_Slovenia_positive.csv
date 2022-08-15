@@ -1,0 +1,2 @@
+Unnamed: 0,Topic,Count,TopicLabel,WordScore,Sentiment,TopicWords
+0,-1,83,-1_health_stayhome_thank_love,"[('health', 0.033155358453757236), ('stayhome', 0.02148984676505033), ('thank', 0.02148984676505033), ('love', 0.02044546744730114), ('covid19', 0.019386970696341533), ('amp', 0.016116571128657275), ('mental', 0.01499058368307304), ('mental health', 0.01499058368307304), ('people', 0.01499058368307304), ('im', 0.01384400013151138)]",positive,"['health', 'stayhome', 'thank', 'love', 'covid', 'amp', 'mental', 'mental health', 'people', 'im ']"

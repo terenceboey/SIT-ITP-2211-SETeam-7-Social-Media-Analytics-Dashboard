@@ -1,0 +1,2 @@
+Unnamed: 0,Topic,Count,TopicLabel,WordScore,Sentiment,TopicWords
+0,-1,38,-1_health_appreciate_korea_people,"[('health', 0.03685185687039845), ('appreciate', 0.02202959795821284), ('korea', 0.01999741871209453), ('people', 0.017910150087529202), ('help', 0.015759815587487593), ('south', 0.015759815587487593), ('flu', 0.013535747071467404), ('really', 0.013535747071467404), ('south korea', 0.013535747071467404), ('dont', 0.013535747071467404)]",neutral,"['health', 'appreciate', 'korea', 'people', 'help', 'south', 'flu', 'really', 'south korea', 'dont ']"

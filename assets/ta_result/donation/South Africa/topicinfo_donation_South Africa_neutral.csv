@@ -1,0 +1,3 @@
+,Topic,Count,TopicLabel,WordScore,Sentiment
+0,0,81,0_grant_health_social_people,False,neutral
+1,1,21,1_groceries collecting social_stayhome however_able essential_able,"[('grant', 0.03626349626801272), ('health', 0.034342299324444), ('social', 0.018678715407817056), ('people', 0.018571424452876427), ('covid19', 0.01768452917842836), ('hong', 0.016784453296739454), ('grants', 0.016188390587264737), ('care', 0.015870306991526802), ('granted', 0.014368679957473042), ('hong hong', 0.013995577170515283)]",neutral

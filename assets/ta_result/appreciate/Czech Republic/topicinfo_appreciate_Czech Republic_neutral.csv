@@ -1,0 +1,2 @@
+Unnamed: 0,Topic,Count,TopicLabel,WordScore,Sentiment,TopicWords
+0,-1,21,-1_health_mental_mental health_help,"[('health', 0.05649957513623458), ('mental', 0.03639003619063742), ('mental health', 0.03639003619063742), ('help', 0.028880539062587925), ('im', 0.024906932192316943), ('better', 0.024906932192316943), ('day', 0.020748588225480376), ('things', 0.016357994328702448), ('positive', 0.016357994328702448), ('lot', 0.016357994328702448)]",neutral,"['health', 'mental', 'mental health', 'help', 'im', 'better', 'day', 'things', 'positive', 'lot ']"

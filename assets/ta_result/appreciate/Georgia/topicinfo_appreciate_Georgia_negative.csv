@@ -1,0 +1,2 @@
+Unnamed: 0,Topic,Count,TopicLabel,WordScore,Sentiment,TopicWords
+0,-1,13,-1_people_dont_help_health,"[('people', 0.04206046966152407), ('dont', 0.03783291789713196), ('help', 0.024091266663432382), ('health', 0.019023700882496254), ('shit', 0.019023700882496254), ('absolutely', 0.019023700882496254), ('know', 0.019023700882496254), ('nothing', 0.019023700882496254), ('covid', 0.019023700882496254), ('cares', 0.019023700882496254)]",negative,"['people', 'dont', 'help', 'health', 'shit', 'absolutely', 'know', 'nothing', 'covid', 'cares ']"

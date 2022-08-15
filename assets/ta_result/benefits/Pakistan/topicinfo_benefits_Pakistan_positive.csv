@@ -1,0 +1,3 @@
+,Topic,Count,TopicLabel,WordScore,Sentiment
+0,0,418,0_health_message_amp_covid19,False,positive
+1,1,20,1_tour_islamabad_flight updates_fly travels tour,"[('health', 0.03438979987421421), ('message', 0.02174538735788691), ('amp', 0.021667810205924662), ('covid19', 0.0209955464145115), ('day', 0.013489779868486899), ('good', 0.011563980156842917), ('safe', 0.011461834661615797), ('allah', 0.011023954759731369), ('covid', 0.01029286949582882), ('may', 0.010069111463310802)]",positive

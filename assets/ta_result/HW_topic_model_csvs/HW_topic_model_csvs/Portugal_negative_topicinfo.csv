@@ -1,0 +1,3 @@
+Unnamed: 0,Topic,Count,TopicLabel,WordScore,Sentiment,TopicWords
+0,0,233,0_health_people_covid19_need,False,neutral,['False']
+1,1,11,1_hard_know_hard hard_cuz,"[('health', 0.03549349491469232), ('people', 0.013621950983089583), ('covid19', 0.013062272302056898), ('need', 0.012650766968537097), ('healthcare', 0.011816522099164511), ('covid', 0.011816522099164511), ('mental', 0.011816522099164511), ('would', 0.010966193497958951), ('mental health', 0.01053452553464445), ('get', 0.010443993807579953)]",neutral,"['health', 'people', 'covid', 'need', 'healthcare', 'covid', 'mental', 'would', 'mental health', 'get ']"

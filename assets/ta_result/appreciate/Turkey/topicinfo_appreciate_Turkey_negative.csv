@@ -1,0 +1,2 @@
+Unnamed: 0,Topic,Count,TopicLabel,WordScore,Sentiment,TopicWords
+0,-1,22,-1_help_health_year_eskiehir,"[('help', 0.030049145652011472), ('health', 0.030049145652011472), ('year', 0.026971078131019722), ('eskiehir', 0.023789509975932602), ('think', 0.020486863990004336), ('mental', 0.0170384088956405), ('public', 0.0170384088956405), ('need', 0.0170384088956405), ('dont', 0.0170384088956405), ('got', 0.0170384088956405)]",negative,"['help', 'health', 'year', 'eskiehir', 'think', 'mental', 'public', 'need', 'dont', 'got ']"

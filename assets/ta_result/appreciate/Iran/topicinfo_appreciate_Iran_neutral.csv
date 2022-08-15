@@ -1,0 +1,2 @@
+Unnamed: 0,Topic,Count,TopicLabel,WordScore,Sentiment,TopicWords
+0,-1,25,-1_health_back_im_mental health,"[('health', 0.04683541874841403), ('back', 0.026923268581133808), ('im', 0.026923268581133808), ('mental health', 0.02045005809810481), ('mental', 0.02045005809810481), ('help', 0.02045005809810481), ('lot', 0.02045005809810481), ('better', 0.017007551937274275), ('ill', 0.017007551937274275), ('people', 0.017007551937274275)]",neutral,"['health', 'back', 'im', 'mental health', 'mental', 'help', 'lot', 'better', 'ill', 'people ']"

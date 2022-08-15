@@ -1,0 +1,3 @@
+Unnamed: 0,Topic,Count,TopicLabel,WordScore,Sentiment,TopicWords
+0,0,256,0_health_help_people_covid19,False,neutral,['False']
+1,1,11,1_due_customer care contact_reply may take_volumes reply,"[('health', 0.03257259151160939), ('help', 0.01797146390679512), ('people', 0.013311272698139672), ('covid19', 0.012214495770767874), ('care', 0.01166945793792029), ('amp', 0.011656027283137901), ('also', 0.010804594987025283), ('nurse', 0.01051689082755339), ('like', 0.01003037414111992), ('get', 0.009344788794416121)]",neutral,"['health', 'help', 'people', 'covid', 'care', 'amp', 'also', 'nurse', 'like', 'get ']"

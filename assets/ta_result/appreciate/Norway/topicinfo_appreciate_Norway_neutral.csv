@@ -1,0 +1,2 @@
+Unnamed: 0,Topic,Count,TopicLabel,WordScore,Sentiment,TopicWords
+0,-1,39,-1_health_help_appreciate_people,"[('health', 0.03714424656472987), ('help', 0.0283465598382849), ('appreciate', 0.023641691102682022), ('people', 0.02119187327704814), ('covid19', 0.01866482013997907), ('healthcare', 0.01866482013997907), ('need', 0.01604744860956878), ('health workers', 0.01604744860956878), ('workers', 0.01604744860956878), ('care', 0.01332135082289448)]",neutral,"['health', 'help', 'appreciate', 'people', 'covid', 'healthcare', 'need', 'health workers', 'workers', 'care ']"
